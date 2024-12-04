@@ -31,12 +31,13 @@ To bridge the gap between traditional learning and futuristic technology, provid
 <li>🖥️ Learn: Browse through diverse courses approved by expert admins.</li>
 <li>🏆 NFT Badges: Earn unique badges for course completion and achievements.</li>
 <li>💸 Earn: Gain token rewards for completing courses and earning certifications.
-<li>🌍 Community: Connect with peers, participate in events, and engage in meaningful discussions.</li>li>
+<li>🌍 Community: Connect with peers, participate in events, and engage in meaningful discussions.</li>
 <li>🔗 Transparency: Decentralized verification of achievements.</li>
 <li>🛡️ Secure: Powered by blockchain for tamper-proof achievements and trust.</li>
 <li>📈 Analytics: Empower educators with insights to improve content.</li>
 </ul>
 
 ## 📈 Join the ABYA Movement
-Explore the limitless possibilities of Web3 in education.
+- Explore the limitless possibilities of Web3 in education.
+  <br/>
 🌐 Join ABYA University and shape the decentralized future of education!
