@@ -28,12 +28,15 @@ To bridge the gap between traditional learning and futuristic technology, provid
 ## 🌟 Highlights of the ABYA Ecosystem
 <ul>
 <li>🎓 Courses: Create, share, and learn with interactive content.</li>
+<li>🖥️ Learn: Browse through diverse courses approved by expert admins.</li>
 <li>🏆 NFT Badges: Earn unique badges for course completion and achievements.</li>
-<li>💸 Native Tokens: Reward participation and incentivize excellence.</li>
+<li>💸 Earn: Gain token rewards for completing courses and earning certifications.
+<li>🌍 Community: Connect with peers, participate in events, and engage in meaningful discussions.</li>li>
 <li>🔗 Transparency: Decentralized verification of achievements.</li>
+<li>🛡️ Secure: Powered by blockchain for tamper-proof achievements and trust.</li>
 <li>📈 Analytics: Empower educators with insights to improve content.</li>
 </ul>
 
 ## 📈 Join the ABYA Movement
 Explore the limitless possibilities of Web3 in education.
-🌐 [Visit
+🌐 Join ABYA University and shape the decentralized future of education!
