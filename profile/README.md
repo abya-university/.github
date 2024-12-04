@@ -5,11 +5,11 @@
 ABYA University is redefining education with a Web3-powered Learning Management System (LMS):
 
 <ul>
-<li>🌐 **Decentralized Learning**: Leverage blockchain to ensure secure, verifiable learning paths and achievements.</li>
-<li>📚 **Student-Centric**: Enroll in courses, earn NFTs for achievements, and participate in a rewarding ecosystem.</li>
-<li>💡 **Empowering Educators**: Enable content creators to share knowledge and monetize their courses.</li>
-<li>🌱 **Future-Ready**: Focused on fostering innovation in technology, sustainability, and community learning.</li>
-<li>🌟 **Recognition**: Earn NFT certificates and badges to showcase your skills globally.</li>
+<li>🌐 Decentralized Learning: Leverage blockchain to ensure secure, verifiable learning paths and achievements.</li>
+<li>📚 Student-Centric: Enroll in courses, earn NFTs for achievements, and participate in a rewarding ecosystem.</li>
+<li>💡 Empowering Educators: Enable content creators to share knowledge and monetize their courses.</li>
+<li>🌱 Future-Ready: Focused on fostering innovation in technology, sustainability, and community learning.</li>
+<li>🌟 Recognition: Earn NFT certificates and badges to showcase your skills globally.</li>
 </ul>
 
 ## 🌟 Our Vision
@@ -17,7 +17,7 @@ ABYA University is redefining education with a Web3-powered Learning Management 
 To bridge the gap between traditional learning and futuristic technology, providing an ecosystem where education is immersive, interactive, and impactful.
 
 🔗 Connect With Us
-<p align="start"> <a href="mailto:support@abyauniversity.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/ABYA-University"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/abya-university"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://discord.com/invite/abyauniversity"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a> <a href="https://twitter.com/abya_university"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a> </p>
+<p align="start"> <a href="mailto:support@abyauniversity.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/ABYA-University"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/abya-university"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="[https://discord.com/invite/abyauniversity](https://discord.gg/5zH6YAKf)"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a> <a href="https://twitter.com/abya_university"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a> </p>
 
 🛠️ Technologies We Use
 🔗 Blockchain & Decentralization
@@ -27,11 +27,11 @@ To bridge the gap between traditional learning and futuristic technology, provid
 
 ## 🌟 Highlights of the ABYA Ecosystem
 <ul>
-<li>🎓 `Courses`: Create, share, and learn with interactive content.</li>
-<li>🏆 `NFT Badges`: Earn unique badges for course completion and achievements.</li>
-<li>💸 `Native Tokens`: Reward participation and incentivize excellence.</li>
-<li>🔗 `Transparency`: Decentralized verification of achievements.</li>
-<li>📈 `Analytic`s: Empower educators with insights to improve content.</li>
+<li>🎓 Courses: Create, share, and learn with interactive content.</li>
+<li>🏆 NFT Badges: Earn unique badges for course completion and achievements.</li>
+<li>💸 Native Tokens: Reward participation and incentivize excellence.</li>
+<li>🔗 Transparency: Decentralized verification of achievements.</li>
+<li>📈 Analytics: Empower educators with insights to improve content.</li>
 </ul>
 
 ## 📈 Join the ABYA Movement
