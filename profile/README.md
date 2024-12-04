@@ -42,8 +42,3 @@ To bridge the gap between traditional learning and futuristic technology, provid
   <br/>
 🌐 Join ABYA University and shape the decentralized future of education!
 
-## 🐍 Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
